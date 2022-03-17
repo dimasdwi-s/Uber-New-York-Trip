@@ -2,7 +2,7 @@
 
 Dimas Dwi Setiawan, [email](mailto:s.dimasdwi@gmail.com).
 
-A simple analysis using Python to get some information in dataset.
+A simple data analysis using Python to get some information in dataset.
 
 ## Dataset
 Data bersumber dari [Kaggle](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city).

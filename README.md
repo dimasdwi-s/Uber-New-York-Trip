@@ -16,6 +16,5 @@ This directory contains data on over 4.5 million Uber pickups in New York City f
 3.	Analyze Demand of Uber.
 4.	Which Base Number Gets Popular by Month Name.
 5.	Cross Analysis.
-6.	Spatial Analysis on Demand.
-7.	Analyze Uber Pickups Each Month.
-8.	Analyze Rush in New York City.
+6.	Analyze Uber Pickups Each Month.
+7.	Analyze Rush in New York City.
